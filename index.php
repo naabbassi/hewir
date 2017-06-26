@@ -60,7 +60,7 @@
 
 	<?php 
 		include 'partials/header.php';
-		include 'partials/slider.php';
+		include 'partials/poly.php';
 		include 'partials/about.php';
 		include 'partials/services.php';
 		include 'partials/features.php';
