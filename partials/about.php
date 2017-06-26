@@ -6,7 +6,7 @@
 					<h2 class="to-animate">About Us</h2>
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 to-animate">
-							<h3>We connects you with an acclaimed freelance designer, freelance developer or small studio and a smart project management system created specifically for design and development projects. 99% of our projects have been completed on time, on budget and issue-free.</h3></div>
+							<h3>Our proces is built around quality-driven development</h3></div>
 					</div>
 				</div>
 				<div class="col-md-4 to-animate">
@@ -19,7 +19,7 @@
 				</div>
 				<div class="col-md-4 to-animate">
 					<h2>Security & Encryption</h2>
-					<p>Protect and maintain your products in any scale of attacks is our skill , encrypting you data with trusted alghoritms and methods.</p>
+					<p>We have worked on applications for banks and e-commerce. We have also developed trading systems and large social networks. Those projects helped us gained sufficient experience that allows us to develop applications with state-of-the-art security measures.</p>
 				</div>
 			</div>
 		</div>
