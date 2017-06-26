@@ -29,6 +29,7 @@
 							<button type="submit" class="btn btn-defaul btn-primary">Send your message</button>
 							</form>
 					<!-- Contact form -->
+					<p>Or make a call through this nummber : +49 176 214 03392</p>
 				</div>
 				<div class="col-md-6">
 					<!--Google Map-->
