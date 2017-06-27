@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="row row-bottom-padded-sm">
 				<div class="col-md-12">
-					<p class="copyright text-center">&copy; 2017  <a href="#">Kerweshk</a>. All Rights Reserved. </a></p>
+					<p class="copyright text-center">&copy; 2017  <a href="#">HEWIR</a>. All Rights Reserved. </a></p>
 				</div>
 			</div>
 			<div class="row">
