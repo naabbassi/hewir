@@ -36,7 +36,7 @@
 					<div class="box to-animate">
 						<div class="icon colored-4"><span><i class="icon-eye"></i></span></div>
 						<h3>Lunch & Support</h3>
-						<p>Whether it’s iOS, Android, web, backend, or Unity, our technology experts have you covered. </p>
+						<p>Even though we do not run a 24/7 support desk, you can always count on us in case of emergency. On top of that, we strive for our applications to have a "self-healing" system that can respond to issues by itself.</p>
 					</div>
 				</div>
 			</div>

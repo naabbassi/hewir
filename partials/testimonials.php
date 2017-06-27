@@ -17,6 +17,7 @@
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
 							<p>Extremely talented mobile developers who are excellent to work with. We strongly recommend them, and definitely plan to partner with them again! </p>
 						</blockquote>
+						<p class="author">Alexander Müller<a href="#"> Deutsche Bank </a> <span class="subtext">IT Departman</span></p>
 					</div>
 					
 				</div>
@@ -26,6 +27,7 @@
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
 							<p>My biggest concern coming in was that we wouldn’t be able to transition development to our team once Jackrabbit was finished – but we’ve really accomplished that. </p>
 						</blockquote>
+						<p class="author">Aso Albert <a href="#"> Zagros Airline </a> <span class="subtext">CEO</span></p>
 					</div>
 					
 					
