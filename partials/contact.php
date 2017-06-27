@@ -28,15 +28,29 @@
 								<textarea name="" class="form-control"  rows="10"></textarea>
 							</div>
 							<button type="submit" class="btn btn-defaul btn-primary">Send your message</button>
-							</form>
+							</form><br>
 					<!-- Contact form -->
 					
 				</div>
-				<div class="col-md-6 to-animate">
+				<div class="col-md-6">
+					<h3>Our Branches</h3>
+					<blockquote cite="">
+						Germany - Head Office
+						<p style="font-size:0.8em">Neue Mainzer Str. 52-58,<br> 60311 Frankfurt am Main, Germany</p>
+						<p style="font-size:0.8em">Tel : +49 176 214 03392 <br> Email :info[at]hewir.com</p>
+					</blockquote>
+					<blockquote cite="">
+						Iran - Sales Office
+						<p style="font-size:0.9em">Mr. Soleiman Qaderpoor</p>
+						<p style="font-size:0.8em">Tehranpars <br> Tehran</p>
+						<p style="font-size:0.8em">Tel : +98 912 835 4543 </p>
+					</blockquote>
+				</div>
+				<div class="col-md-12 to-animate">
 					<!--Google Map-->
 					<iframe
-						width="600"
-						height="450"
+						width="100%"
+						height="300"
 						frameborder="0" style="border:0"
 						src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBFzFdlTKBnDf6xL_oOb2AXO2qCR8k1iC0
 							&q=Maintower,frankfurt+hessen" allowfullscreen>
