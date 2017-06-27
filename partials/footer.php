@@ -11,8 +11,7 @@
 						<li><a href="https://twitter.com/HewirCo" target="_blank"><i class="icon-twitter"></i></a></li>
 						<li><a href="https://facebook.com/HewirCo" target="_blank"><i class="icon-facebook"></i></a></li>
 						<li><a href="#"><i class="icon-youtube"></i></a></li>
-						<li><a href="#"><i class="icon-pinterest"></i></a></li>
-						<li><a href="#"><i class="icon-linkedin"></i></a></li>
+						<li><a href="https://www.linkedin.com/company-beta/18129717/"><i class="icon-linkedin"></i></a></li>
 						<li><a href="#"><i class="icon-instagram"></i></a></li>
 						<li><a href="#"><i class="icon-dribbble"></i></a></li>
 					</ul>

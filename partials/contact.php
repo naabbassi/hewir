@@ -32,7 +32,7 @@
 					<!-- Contact form -->
 					
 				</div>
-				<div class="col-md-6">
+				<div class="col-md-6 to-animate">
 					<h3>Our Branches</h3>
 					<blockquote cite="">
 						Germany - Head Office
@@ -40,7 +40,7 @@
 						<p style="font-size:0.8em">Tel : +49 176 214 03392 <br> Email :info[at]hewir.com</p>
 					</blockquote>
 					<blockquote cite="">
-						Iran - Sales Office
+						Iran - Sale Office
 						<p style="font-size:0.9em">Mr. Soleiman Qaderpoor</p>
 						<p style="font-size:0.8em">Tehranpars <br> Tehran</p>
 						<p style="font-size:0.8em">Tel : +98 912 835 4543 </p>
@@ -48,17 +48,100 @@
 				</div>
 				<div class="col-md-12 to-animate">
 					<!--Google Map-->
-					<iframe
-						width="100%"
-						height="300"
-						frameborder="0" style="border:0"
-						src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBFzFdlTKBnDf6xL_oOb2AXO2qCR8k1iC0
-							&q=Maintower,frankfurt+hessen" allowfullscreen>
-					</iframe>
+					 <div id="map" style="width:100%; height:300px;"></div>
+					  <script>
+      function initMap() {
+        // Styles a map in night mode.
+        var map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: 50.112, lng: 8.669},
+          zoom: 12,
+          styles: [
+            {elementType: 'geometry', stylers: [{color: '#242f3e'}]},
+            {elementType: 'labels.text.stroke', stylers: [{color: '#242f3e'}]},
+            {elementType: 'labels.text.fill', stylers: [{color: '#746855'}]},
+            {
+              featureType: 'administrative.locality',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#d59563'}]
+            },
+            {
+              featureType: 'poi',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#d59563'}]
+            },
+            {
+              featureType: 'poi.park',
+              elementType: 'geometry',
+              stylers: [{color: '#263c3f'}]
+            },
+            {
+              featureType: 'poi.park',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#6b9a76'}]
+            },
+            {
+              featureType: 'road',
+              elementType: 'geometry',
+              stylers: [{color: '#38414e'}]
+            },
+            {
+              featureType: 'road',
+              elementType: 'geometry.stroke',
+              stylers: [{color: '#212a37'}]
+            },
+            {
+              featureType: 'road',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#9ca5b3'}]
+            },
+            {
+              featureType: 'road.highway',
+              elementType: 'geometry',
+              stylers: [{color: '#746855'}]
+            },
+            {
+              featureType: 'road.highway',
+              elementType: 'geometry.stroke',
+              stylers: [{color: '#1f2835'}]
+            },
+            {
+              featureType: 'road.highway',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#f3d19c'}]
+            },
+            {
+              featureType: 'transit',
+              elementType: 'geometry',
+              stylers: [{color: '#2f3948'}]
+            },
+            {
+              featureType: 'transit.station',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#d59563'}]
+            },
+            {
+              featureType: 'water',
+              elementType: 'geometry',
+              stylers: [{color: '#17263c'}]
+            },
+            {
+              featureType: 'water',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#515c6d'}]
+            },
+            {
+              featureType: 'water',
+              elementType: 'labels.text.stroke',
+              stylers: [{color: '#17263c'}]
+            }
+          ]
+        });
+      }
+		</script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBFzFdlTKBnDf6xL_oOb2AXO2qCR8k1iC0&callback=initMap"
+		async defer></script>
+					
 				</div>
-
-			
-
 			</div>
 		</div>
 	</div>
