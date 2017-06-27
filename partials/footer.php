@@ -1,11 +1,11 @@
 <footer id="footer" role="contentinfo">
-		<div class="container">
-			<div class="row row-bottom-padded-sm">
+		<div class="container ">
+			<div class="row row-bottom-padded-sm to-animate">
 				<div class="col-md-12">
 					<p class="copyright text-center">&copy; 2017  <a href="#">HEWIR</a>. All Rights Reserved. </a></p>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row to-animate">
 				<div class="col-md-12 text-center">
 					<ul class="social social-circle">
 						<li><a href="https://twitter.com/HewirCo" target="_blank"><i class="icon-twitter"></i></a></li>

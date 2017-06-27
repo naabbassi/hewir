@@ -1,10 +1,10 @@
-<div id="fh5co-press" data-section="contact">
+<div id="fh5co-contact" data-section="contact">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12 section-heading text-center">
-					<h2 class="single-animate animate-press-1">Stay in touch with us</h2>
+				<div class="col-md-12 section-heading text-center to-animate">
+					<h2 class="">Stay in touch with us</h2>
 					<div class="row">
-						<div class="col-md-8 col-md-offset-2 subtext single-animate animate-press-2">
+						<div class="col-md-8 col-md-offset-2 subtext">
 							<h3>If you have any questions just throw us it easily through below form.</h3>
 							<h3>Or make a call through this nummber : +49 176 214 03392</h3>
 						</div>
@@ -12,7 +12,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col-md-6 to-animate">
 					<!-- contact form -->
 						<form>
 							<div class="form-group">
@@ -32,7 +32,7 @@
 					<!-- Contact form -->
 					
 				</div>
-				<div class="col-md-6">
+				<div class="col-md-6 to-animate">
 					<!--Google Map-->
 					<iframe
 						width="600"

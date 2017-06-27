@@ -16,47 +16,6 @@
 
 
 
-	// Carousel Feature Slide
-	var owlCrouselFeatureSlide = function() {
-		
-		var owl = $('.owl-carousel');
-
-		owl.on('initialized.owl.carousel change.owl.carousel',function(elem){
-			var current = elem.item.index;
-			$(elem.target).find(".owl-item").eq(current).find(".to-animate").removeClass('fadeInUp animated');
-			$(elem.target).find(".owl-item").eq(current).find(".to-animate-2").removeClass('fadeInUp animated');
-		
-		});
-		owl.on('initialized.owl.carousel changed.owl.carousel',function(elem){
-			setTimeout(function(){
-				var current = elem.item.index;
-				$(elem.target).find(".owl-item").eq(current).find(".to-animate").addClass('fadeInUp animated');
-			}, 700);
-			setTimeout(function(){
-				var current = elem.item.index;
-				$(elem.target).find(".owl-item").eq(current).find(".to-animate-2").addClass('fadeInUp animated');
-			}, 900);
-     	});
-		owl.owlCarousel({
-			items: 1,
-		    loop: true,
-		    margin: 0,
-		    responsiveClass: true,
-		    nav: true,
-		    dots: true,
-		    autoHeight: true,
-		    smartSpeed: 500,
-		    autoplay: true,
-			autoplayTimeout: 5000,
-			autoplayHoverPause: true,
-		    navText: [	
-		      "<i class='icon-arrow-left2 owl-direction'></i>",
-		      "<i class='icon-arrow-right2 owl-direction'></i>"
-	     	]
-		});
-
-	};
-
 
 
 	// animate-box
@@ -159,7 +118,7 @@
 		   	var header = $('#fh5co-header'),
 				scrlTop = $(this).scrollTop();
 
-			if ( scrlTop > 500 && scrlTop <= 2000 ) {
+			if ( scrlTop > 300 && scrlTop <= 4500 ) {
 				header.addClass('navbar-fixed-top fh5co-animated slideInDown');
 			} else if ( scrlTop <= 500) {
 				if ( header.hasClass('navbar-fixed-top') ) {
@@ -360,8 +319,71 @@
 		}
 
 	};
+	// contact
+	var contactAnimate = function() {
 
+		if ( $('#fh5co-contact').length > 0 ) {	
+			$('#fh5co-contact .to-animate').each(function( k ) {
+				
+				var el = $(this);
+				
+				setTimeout ( function () {
+					el.addClass('fadeInUp animated');
+				},  k * 200, 'easeInOutExpo' );
+				
+			});
+		}
 
+	};
+	var contactWayPoint = function() {
+
+		if ( $('#fh5co-contact').length > 0 ) {
+			$('#fh5co-contact').waypoint( function( direction ) {
+										
+				
+					setTimeout(contactAnimate, 200);
+					
+					
+					$(this.element).addClass('animated');
+						
+			
+			} , { offset: '95%' } );
+		}
+
+	};
+
+// footer
+	var footerAnimate = function() {
+
+		if ( $('#footer').length > 0 ) {	
+			$('#footer .to-animate').each(function( k ) {
+				
+				var el = $(this);
+				
+				setTimeout ( function () {
+					el.addClass('fadeInUp animated');
+				},  k * 200, 'easeInOutExpo' );
+				
+			});
+		}
+
+	};
+	var footerWayPoint = function() {
+
+		if ( $('#footer').length > 0 ) {
+			$('#footer').waypoint( function( direction ) {
+										
+				
+					setTimeout(footerAnimate, 200);
+					
+					
+					$(this.element).addClass('animated');
+						
+			
+			} , { offset: '95%' } );
+		}
+
+	};
 
 	
 	
@@ -370,7 +392,6 @@
 	$(function(){
 
 		burgerMenu();
-		owlCrouselFeatureSlide();
 		clickMenu();
 		windowScroll();
 		navigationSection();
@@ -380,8 +401,8 @@
 		servicesWayPoint();
 		featuresWayPoint();
 		testimonialsWayPoint();
-		pricingWayPoint();
-		pressWayPoint();
+		contactWayPoint();
+		footerWayPoint();
 
 	});
 
