@@ -8,10 +8,11 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Hewir</title>
+	<title>Hewir : IT and more</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.C" />
-	<meta name="keywords" content="" />
+	<meta name="description" content="Unlock your digital business potential with Hewir" />
+	<meta name="keywords" content="Software Develpment" />
+	<meta name="author" content="Nasser Abbassi" />
 
 
 
