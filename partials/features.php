@@ -14,14 +14,14 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
 					<div class="fh5co-icon"><i class="icon-present"></i></div>
 					<div class="fh5co-desc">
-						<h3>100% Free</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+						<h3>Free Consultation</h3>
+						<p>We are ready to sit around a Table with you to help you to bring up your Ideas</p>
 					</div>	
 				</div>
 				<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
 					<div class="fh5co-icon"><i class="icon-eye"></i></div>
 					<div class="fh5co-desc">
-						<h3>Retina Ready</h3>
+						<h3>New Technologies</h3>
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 					</div>
 				</div>
@@ -29,14 +29,14 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
 					<div class="fh5co-icon"><i class="icon-crop"></i></div>
 					<div class="fh5co-desc">
-						<h3>Fully Responsive</h3>
+						<h3>Accurate & Trustable</h3>
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
 					<div class="fh5co-icon"><i class="icon-speedometer"></i></div>
 					<div class="fh5co-desc">
-						<h3>Lightweight</h3>
+						<h3>Rapid and High Performance</h3>
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 					</div>	
 				</div>
@@ -44,14 +44,14 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
 					<div class="fh5co-icon"><i class="icon-heart"></i></div>
 					<div class="fh5co-desc">
-						<h3>Made with Love</h3>
+						<h3>Working in friendship</h3>
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
 					<div class="fh5co-icon"><i class="icon-umbrella"></i></div>
 					<div class="fh5co-desc">
-						<h3>Eco Friendly</h3>
+						<h3>Supporting and Secure</h3>
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 					</div>
 				</div>
@@ -59,7 +59,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-4 col-md-offset-4 single-animate animate-features-3">
-					<a href="#" class="btn btn-primary btn-block">Learn More</a>
+					<a href="#" class="btn btn-primary btn-block" data-nav-section="contact">Learn More</a>
 				</div>
 			</div>
 		</div>

@@ -14,7 +14,6 @@
 		            <li><a href="#" data-nav-section="services"><span>Services</span></a></li>
 		            <li><a href="#" data-nav-section="features"><span>Features</span></a></li>
 		            <li><a href="#" data-nav-section="testimonials"><span>Testimonials</span></a></li>
-		            <!--<li><a href="#" data-nav-section="pricing"><span>Pricing</span></a></li>-->
 		            <li><a href="#" data-nav-section="contact"><span>Contact</span></a></li>
 		          </ul>
 		        </div>

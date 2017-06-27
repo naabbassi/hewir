@@ -25,7 +25,7 @@
 					<div class="box-testimony to-animate">
 						<blockquote>
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
-							<p>My biggest concern coming in was that we wouldn’t be able to transition development to our team once Jackrabbit was finished – but we’ve really accomplished that. </p>
+							<p>My biggest concern coming in was that we wouldn’t be able to transition development to our team once Hewir was finished – but we’ve really accomplished that. </p>
 						</blockquote>
 						<p class="author">Aso Albert <a href="#"> Zagros Airline </a> <span class="subtext">CEO</span></p>
 					</div>

@@ -17,10 +17,10 @@
 
 
   <!-- Facebook and Twitter integration -->
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
+	<meta property="og:title" content="UNLOCK YOUR DIGITAL BUSINESS POTENTIAL WITH HEWIR"/>
+	<meta property="og:image" content="https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/19437779_1745573032402139_1092918480620309461_n.jpg?oh=9fd08199e088e0a087f820476acfa4c4&oe=59CD96BA"/>
+	<meta property="og:url" content="https://hewir.herokuapp.com/"/>
+	<meta property="og:site_name" content="Hewir Co , For Software and Web Develpment"/>
 	<meta property="og:description" content=""/>
 	<meta name="twitter:title" content="" />
 	<meta name="twitter:image" content="" />
