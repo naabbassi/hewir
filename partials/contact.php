@@ -1,6 +1,6 @@
 <div id="fh5co-contact" data-section="contact">
-		<div class="container">
-			<div class="row">
+		<div class="container"><br>
+			<div class="row ">
 				<div class="col-md-12 section-heading text-center to-animate">
 					<h2 class="">Stay in touch with us</h2>
 					<div class="row">

@@ -20,21 +20,21 @@
 				</div>
 				<div class="col-md-3">
 					<div class="box to-animate">
-						<div class="icon colored-2"><span><i class="icon-screen-desktop"></i></span></div>
+						<div class="icon colored-1"><span><i class="icon-screen-desktop"></i></span></div>
 						<h3>Design</h3>
 						<p>From business strategy to user interviews and customer validation, we help you craft products with intention. </p>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="box to-animate">
-						<div class="icon colored-3"><span><i class="icon-code"></i></span></div>
+						<div class="icon colored-1"><span><i class="icon-code"></i></span></div>
 						<h3>Development</h3>
 						<p>Whether it’s iOS, Android, web, backend, or Unity, our technology experts have you covered. </p>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="box to-animate">
-						<div class="icon colored-4"><span><i class="icon-eye"></i></span></div>
+						<div class="icon colored-1"><span><i class="icon-eye"></i></span></div>
 						<h3>Lunch & Support</h3>
 						<p>Even though we do not run a 24/7 support desk, you can always count on us in case of emergency. On top of that, we strive for our applications to have a "self-healing" system that can respond to issues by itself.</p>
 					</div>
