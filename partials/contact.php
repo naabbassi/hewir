@@ -6,6 +6,7 @@
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 subtext single-animate animate-press-2">
 							<h3>If you have any questions just throw us it easily through below form.</h3>
+							<h3>Or make a call through this nummber : +49 176 214 03392</h3>
 						</div>
 					</div>
 				</div>
@@ -29,7 +30,7 @@
 							<button type="submit" class="btn btn-defaul btn-primary">Send your message</button>
 							</form>
 					<!-- Contact form -->
-					<p>Or make a call through this nummber : +49 176 214 03392</p>
+					
 				</div>
 				<div class="col-md-6">
 					<!--Google Map-->

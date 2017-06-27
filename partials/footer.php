@@ -8,8 +8,8 @@
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<ul class="social social-circle">
-						<li><a href="https://twitter.com/webblick"><i class="icon-twitter"></i></a></li>
-						<li><a href="#"><i class="icon-facebook"></i></a></li>
+						<li><a href="https://twitter.com/HewirCo" target="_blank"><i class="icon-twitter"></i></a></li>
+						<li><a href="https://facebook.com/HewirCo" target="_blank"><i class="icon-facebook"></i></a></li>
 						<li><a href="#"><i class="icon-youtube"></i></a></li>
 						<li><a href="#"><i class="icon-pinterest"></i></a></li>
 						<li><a href="#"><i class="icon-linkedin"></i></a></li>
