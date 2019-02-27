@@ -6,7 +6,7 @@
 					<h2 class="to-animate">About Us</h2>
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 to-animate">
-							<h3>Our proces is built around quality-driven development</h3></div>
+							<h3>Our process is built around quality-driven development</h3></div>
 					</div>
 				</div>
 				<div class="col-md-4 to-animate">
